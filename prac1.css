@@ -1,22 +1,17 @@
-body {
-    margin : 30px;
+.container{
+    border: palevioletred solid 2px;
+    width: 380px;
+    height: 120px;
+    display:flex;
+    flex-direction: row;
+    justify-content: space-evenly;
+    align-items:center;
+    border-radius: 1ch;
 }
-
-.box_container {
-    width: 250px;
-    height: 80px;
-    border: green solid 2px;
-
-    display: flex;
-    justify-content: space-around;
-    align-items: center;
-
-}
-
-.box {
-    background-color: green;
-    width: 55px;
-    height: 55px;
-
-    border-radius: 5px;
+.box{
+    background-color: palevioletred;
+    width: 100px;
+    height: 100px;
+    color: palevioletred;
+    border-radius: 1ch;
 }
