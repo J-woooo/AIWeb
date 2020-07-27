@@ -1,0 +1,22 @@
+body {
+    margin : 30px;
+}
+
+.box_container {
+    width: 250px;
+    height: 80px;
+    border: green solid 2px;
+
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+
+}
+
+.box {
+    background-color: green;
+    width: 55px;
+    height: 55px;
+
+    border-radius: 5px;
+}

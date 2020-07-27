@@ -1,0 +1,37 @@
+body {
+    margin : 20px;
+}
+
+.container1 {
+    width: 200px;
+    height: 80px;
+
+    display: flex;
+    justify-content: space-around;
+
+}
+.container2 {
+    width: 200px;
+    height: 80px;
+
+    display: flex;
+    justify-content: space-around;
+    
+}
+.container3 {
+    width: 200px;
+    height: 80px;
+
+    display: flex;
+    justify-content: space-around;
+    
+}
+
+.box {
+    width: 60px;
+    height: 60px;
+
+    background-color: pink;
+    border-radius: 10px;
+
+}
