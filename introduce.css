@@ -1,0 +1,27 @@
+.login {
+    width: 100px;
+    height: 40px;
+    font-size: 20;
+    background-color: antiquewhite;
+}
+.ID {
+    border: 5ch;
+    width: 300px;
+    height: 30px;
+    background-color: burlywood;
+}
+.password {
+    width: 200px;
+    height: 80px;
+    background-color: coral;
+}
+.password_find {
+    width: 200px;
+    height: 60px;
+    background-color: cornflowerblue;
+}
+.introduce {
+    width: 250px;
+    height: 200px;
+    background-color: cyan;
+}
