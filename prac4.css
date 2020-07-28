@@ -26,13 +26,23 @@
     height: 60px;
     margin: 5px;
     display:flex;
-    align-content: center;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 1ch;
 }
+/* .money{
+    display:flex;
+    align-self: flex-end;
+}
+.bank{
+    display:flex;
+    align-self: flex-start;
+} */
 
 .word1{
     font-size: 46px;
     font-weight: bold;
-    
 }
 .word2{
     font-size: 15px;
